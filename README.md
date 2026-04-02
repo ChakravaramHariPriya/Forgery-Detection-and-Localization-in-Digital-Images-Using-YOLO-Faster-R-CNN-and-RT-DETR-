@@ -33,6 +33,7 @@ YOLO Model
 Feature Extraction
 Detection Layer
 Output with Bounding Boxes
+
 ⚙️ Tech Stack
 Programming Language: Python
 Frameworks: PyTorch / TensorFlow (depending on your implementation)
@@ -41,7 +42,8 @@ Libraries:
 OpenCV
 NumPy
 Matplotlib
-Tools:
+
+* Tools:
 Google Colab / Jupyter Notebook
 Git & GitHub
 🤖 Model Details
@@ -53,13 +55,13 @@ Key Features:
 Real-time detection
 High accuracy
 Multi-class forgery detection
+
 📂 Dataset
 Contains images with:
 Authentic images
 Forged images
 Labels include bounding boxes for manipulated regions
 
-(Mention dataset name if you used one — like CASIA, CoMoFoD, etc.)
 
 🔧 Implementation Steps
 Data Collection & Annotation
@@ -68,6 +70,7 @@ Model Training using YOLO
 Model Evaluation
 Testing on unseen images
 Visualization of results
+
 ✨ Features Implemented
 
 ✔ Forgery detection using deep learning
